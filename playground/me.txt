@@ -1,1 +1,0 @@
-{{#user}                                                                Name: Gaurav                                                                    Skills: C, C++, Data Structures, HTML, CSS, JS, ReactJS                         Email:sahugaurav0911@gmail.com                                                  {{/user}}
